@@ -1,2 +1,22 @@
 Resources used during Lesson 2:
 
+Classification of Programming Languages:
+[1] https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+[2] https://cs.lmu.edu/~ray/notes/pltypes/
+[6] https://techhq.com/2023/07/why-so-many-computer-programming-languages/
+
+Choosing Between Languages & Strengths:
+[3] https://moldstud.com/articles/p-choosing-the-right-programming-language-for-your-project
+[4] https://devops.com/choosing-the-right-programming-language/
+[7] https://www.linkedin.com/pulse/advantages-disadvantages-most-used-programming-languages-
+[8] https://www.reddit.com/r/cpp/comments/r6g4rx/what_are_the_best_uses_of_c/
+[9] https://www.reddit.com/r/cpp_questions/comments/kjmnti/is_c_really_a_lowlevel_programming_language/
+
+Problem-specific Usages:
+[5] https://www.reddit.com/r/gamedev/comments/wotwig/best_game_development_language/
+
+
+
+
+
+
