@@ -12,13 +12,18 @@ The industry standard in game development [5], this language was originally crea
 Hence, in my case, the choice falls to this one due to:
 - game development (with Unreal Engine) application aligning with my long-term goal
 - creating scientific & engineering simulations in my shorter-term goals
-- relatively fast and versatile: 
+- cybersecurity applications [4] also aligning with my shorter-term goals
+- relatively fast and versatile: being "low-level" enough and closer to machine-operations, yet "high-level" enough to allow for advanced uses [9]
 
 **Quality resources include:**
 - https://learncs.me/stanford/cs106l (video series and lecture slides)
 - https://web.stanford.edu/class/archive/cs/cs106x/cs106x.1182/lectures.shtml (video series and lecture slides)
 - https://lupteach.gitlab.io/courses/ucd-ecs36c/online/ (video series and lecture slides)
 - https://www.dre.vanderbilt.edu/~schmidt/cs251/ (video series and lecture slides)
+
+## Number Two: Python
+
+I have a love-hate relationship with this one language. I constantly refer to it as being "so high level it makes its users dumb". Yet I cannot deny its versatility in scientific computing or data science [4] and being an industry standard [4], possibly due to its open-source nature and vast selection of packages [10].
 
 
 
