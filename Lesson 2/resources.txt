@@ -15,9 +15,8 @@ Choosing Between Languages & Strengths:
 
 Problem-specific Usages:
 [5] https://www.reddit.com/r/gamedev/comments/wotwig/best_game_development_language/
-
-
-
-
-
-
+[11] https://gist.github.com/sebp/58da862b779489998e8e6088908fbfa5
+[12] https://www.reddit.com/r/cybersecurity/comments/15z4gqa/what_python_use_cases_are_most_common_for/
+[13] https://www.pygame.org/news
+[14] https://timespro.com/blog/what-is-c-programming
+[15] https://www.reddit.com/r/C_Programming/comments/12ii2jd/what_can_you_actually_do_in_c/
