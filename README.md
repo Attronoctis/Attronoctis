@@ -35,7 +35,12 @@
 3. **Enhance Simulation Skills:**
    - Write complex simulations with a focus on object-oriented programming.
    - Gain proficiency in creating and optimizing simulation models.
-4. **Gain Cybersecurity Knowledge**
+4. **Gain Cybersecurity Knowledge:**
+   - Learn the fundamentals of cybersecurity to protect systems and data.
+   - Stay updated on the latest security threats and best practices for mitigation.
+5. **Learn About Modding Games:**
+   - Understand the basics of game modding to customize and enhance existing games.
+   - Experiment with different game engines and modding tools to create unique content.
 
 ### Learning Goals for the Distant Future
 
