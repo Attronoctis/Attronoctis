@@ -1,1 +1,3 @@
 
+
+SOLID principles: https://www.acronymat.com/2021/01/11/solid/
